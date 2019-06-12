@@ -7745,5 +7745,17 @@
     "description": "Nico game engine",
     "license": "MIT",
     "web": "https://github.com/ftsf/nico"
+  },
+  {
+    "name": "news",
+    "url": "https://github.com/tormund/news",
+    "method": "git",
+    "tags": [
+      "websocket",
+      "chronos"
+    ],
+    "description": "Easy websocket with chronos support",
+    "license": "MIT",
+    "web": "https://github.com/tormund/news"
   }
 ]
